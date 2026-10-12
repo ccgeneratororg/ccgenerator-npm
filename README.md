@@ -7,6 +7,9 @@
 
 Synthetic, Luhn-valid payment card numbers for testing card input.
 
+The npm package behind [CC Generator](https://ccgenerator.org) — the same
+generator that runs at [ccgenerator.org](https://ccgenerator.org), as a library.
+
 Zero dependencies. No network calls. Works in Node and the browser.
 
 ```js
